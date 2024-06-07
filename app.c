@@ -509,7 +509,7 @@ void main_task(intptr_t unused)
     {
         drive(0,0);
     }
-    // lineTrace_0(-1,30,200);
+    lineTrace_0(-1,30,200);
     lineTrace_1();//start
     lineTrace_2();//1/4rad
     lineTrace_3();//doubleloop_small
